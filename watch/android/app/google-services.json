@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639510783481",
+    "project_id": "watch-295cd",
+    "storage_bucket": "watch-295cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639510783481:android:c2f5670e44aafbc158c928",
+        "android_client_info": {
+          "package_name": "com.example.watch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639510783481-9l0h62ghfg5ldm0rj012nvv0ud2i85n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxUGisAMJ7u-Zf7L-Ca4eAYZxZEDiNaqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639510783481-9l0h62ghfg5ldm0rj012nvv0ud2i85n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
